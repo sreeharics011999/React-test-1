@@ -1,0 +1,25 @@
+.container-div{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 50px;
+    padding-left: 2%;
+  padding-right: 2%;
+  background-color:#ececec;
+  ;
+}
+.nav-link{
+    color: black;
+    font-size: larger;
+}
+.brand-logo{
+    width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.fixed-top {
+    position: fixed;
+    top: 2%;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
